@@ -35,6 +35,8 @@ Support
 If you are having issues, please let us know.
 We have a mailing list located at: project@google-groups.com
 
+https://windowstipshub.com/4-fixes-for-digital-tv-tuner-device-registration-application-issues/
+
 License
 -------
 
